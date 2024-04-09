@@ -1,0 +1,40 @@
+body {
+    font-family: "Forum", serif;
+    color: #d0a933;
+    background-color: black;
+}
+
+div.navigation {
+    height: 110px;
+    width: 100%;
+    background-color: black;
+    color: #d0a933;
+}
+
+button.navigation {
+    height: 110px;
+    width: 200px;
+    background-color: black;
+    font-family: "Forum", serif;
+    color: #d0a933;
+    font-size: 40px;
+    border-style: none;
+    float: right;
+}
+
+button.navigation:hover {
+    height: 110px;
+    width: 200px;
+    background-color: black;
+    font-family: "Forum", serif;
+    color: #d0a933;
+    text-decoration: underline;
+    text-decoration-color: #d0a933;
+    font-size: 40px;
+    border-style: none;
+    float: right;
+}
+
+h1 {
+    text-align: center;
+}
